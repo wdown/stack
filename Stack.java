@@ -5,7 +5,7 @@ public class Stack {
 	private Stack pointer;
 	
 	
-	
+
 	public StackElement getData() {
 		return data;
 	}
